@@ -12,16 +12,16 @@ Contoh:Labs Pertemuan 5'<P>'
 
 Perhatikan program berikut:'<P>'
 
-print ("Tugas Python")
-print ()()
-nama = input("Masukan nama Anda :")
-panggilan = input("Masukan Panggilan :")
-nim = input("Masukan NIM :")
-tglhr = input("Masukan Tanggal Lahir :")
-tmlhr = input("Masukan Tempat Lahir :")
-tlpn = input ("Masukan Nomer Telepon :")
-alamat = input ("Masukan Alamat :")
-umur = ("Masukan Umur Anda :")'<p>'
+    print ("Tugas Python")
+    print ()()
+    nama = input("Masukan nama Anda :")
+    panggilan = input("Masukan Panggilan :")
+    nim = input("Masukan NIM :")    
+    tglhr = input("Masukan Tanggal Lahir :")
+    tmlhr = input("Masukan Tempat Lahir :")
+    tlpn = input ("Masukan Nomer Telepon :")    
+    alamat = input ("Masukan Alamat :")
+    umur = ("Masukan Umur Anda :")'<p>'
 
 Hasil Ouputnya:'<p>'
 ![Gambar 1](screenshoot/s1.JPG)
@@ -30,16 +30,16 @@ Program di atas ada yang salah dalam mengasih tanda program, sehingga hal ini ak
 
 Dan apabilah tanda yang salah di hapus dan program di jalankan maka hasil ouputnnya seperti ini'<p>'
 
-print ("Tugas Python")
-print ()
-nama = input("Masukan nama Anda :")
-panggilan = input("Masukan Panggilan :")
-nim = input("Masukan NIM :")
-tglhr = input("Masukan Tanggal Lahir :")
-tmlhr = input("Masukan Tempat Lahir :")
-tlpn = input ("Masukan Nomer Telepon :")
-alamat = input ("Masukan Alamat :")
-umur = ("Masukan Umur Anda :")'<p>'
+    print ("Tugas Python")
+    print ()
+    nama = input("Masukan nama Anda :") 
+    panggilan = input("Masukan Panggilan :")
+    nim = input("Masukan NIM :")
+    tglhr = input("Masukan Tanggal Lahir :")
+    tmlhr = input("Masukan Tempat Lahir :")
+    tlpn = input ("Masukan Nomer Telepon :")
+    alamat = input ("Masukan Alamat :")
+    umur = ("Masukan Umur Anda :")'<p>'
 
 Hasil Ouputnya:'<p>'
 ![Gambar 2](screenshoot/s2.JPG)
