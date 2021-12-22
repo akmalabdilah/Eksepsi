@@ -24,7 +24,7 @@ alamat = input ("Masukan Alamat :")
 umur = ("Masukan Umur Anda :")'<p>'
 
 Hasil Ouputnya:'<p>'
-![Gambar 1](screenshoot/s1.JPEG)
+![Gambar 1](screenshoot/s1.JPG)
 
 Program di atas ada yang salah dalam mengasih tanda program, sehingga hal ini akan memicu bangkitnya eksepsi karena akan terjadi error.'<p>'
 
@@ -42,7 +42,7 @@ alamat = input ("Masukan Alamat :")
 umur = ("Masukan Umur Anda :")'<p>'
 
 Hasil Ouputnya:'<p>'
-![Gambar 2](screenshoot/s2.JPEG)
+![Gambar 2](screenshoot/s2.JPG)
 
 OK, Segini saja penjelasan tugas latihan pertemuan 13 terima kasih sampai jumpa'<p>'
 
